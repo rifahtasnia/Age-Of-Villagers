@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUTDvt1F0sPZS5dI0TJou5K3agFurJXDwfxG3UAYTsmRXxlFi1s0wqPJMt3JJUoKKOPLeyMexAJmCqrQ/CVEyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThinkPad\\Source\\Repos\\age-of-villagers-swe-17\\solutions\\42-rifah\\AgeOfVillagers\\AgeOfVillagers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
